@@ -1,0 +1,6 @@
+requests==2.31.0
+pyTelegramBotAPI==4.19.1
+Flask==2.3.3
+telebot==0.0.5
+aiogram==3.25.0
+aiohttp
