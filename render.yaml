@@ -4,8 +4,9 @@ services:
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python sigma launcher.py
+    startCommand: python sigma laucher.py
     envVars:
       - key: BOT_TOKEN
 
         sync: false
+
